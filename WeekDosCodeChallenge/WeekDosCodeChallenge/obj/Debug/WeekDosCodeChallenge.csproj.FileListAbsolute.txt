@@ -1,0 +1,6 @@
+c:\users\technologist sp\documents\GitHub\Week2CodeChallenge\WeekDosCodeChallenge\WeekDosCodeChallenge\bin\Debug\WeekDosCodeChallenge.exe.config
+c:\users\technologist sp\documents\GitHub\Week2CodeChallenge\WeekDosCodeChallenge\WeekDosCodeChallenge\bin\Debug\WeekDosCodeChallenge.exe
+c:\users\technologist sp\documents\GitHub\Week2CodeChallenge\WeekDosCodeChallenge\WeekDosCodeChallenge\bin\Debug\WeekDosCodeChallenge.pdb
+c:\users\technologist sp\documents\GitHub\Week2CodeChallenge\WeekDosCodeChallenge\WeekDosCodeChallenge\obj\Debug\WeekDosCodeChallenge.csprojResolveAssemblyReference.cache
+c:\users\technologist sp\documents\GitHub\Week2CodeChallenge\WeekDosCodeChallenge\WeekDosCodeChallenge\obj\Debug\WeekDosCodeChallenge.exe
+c:\users\technologist sp\documents\GitHub\Week2CodeChallenge\WeekDosCodeChallenge\WeekDosCodeChallenge\obj\Debug\WeekDosCodeChallenge.pdb
